@@ -1,0 +1,98 @@
+.footer{
+    width: 100%;
+    height: 550px;
+    background-color: black;
+    border-radius: 20px;
+    position: relative;
+}
+.div{
+    width: 70%;
+    height: 40px;
+    background-color: white;
+    margin-top: 50px;
+    position: absolute;
+    margin-left: 190px;
+    border-radius: 15px;
+    
+}
+.fredi{
+    color: black;
+    margin-top: 45px;
+    position: absolute;
+    margin-left: 200px;
+}
+.mimi {
+    position: absolute;
+    margin-left: 920px;
+    margin-top: 45px;
+    
+} 
+.mello{
+    color: rgb(92, 92, 205);
+    position: absolute;
+    margin-left: 220px;
+    margin-top: 115px;
+    
+}
+.fii{
+    position: absolute;
+    color: rgb(92, 92, 205);
+    margin-left: 600px;
+    margin-top: 115px;
+}
+.fee{
+    position: absolute;
+    color: rgb(92, 92, 205);
+    margin-left: 940px;
+    margin-top: 115px;
+    
+}
+.buda{
+    position: absolute;
+    color: white;
+    margin-left: 220px;
+    margin-top: 170px;
+}
+.buth{
+    position: absolute;
+    color: white;
+    margin-left: 220px;
+    margin-top: 200px;
+    
+}
+.bale{
+    position: absolute;
+    color: white;
+    margin-left: 220px;
+    margin-top: 230px;   
+}
+.saka{
+    position: absolute;
+    color: white;
+    margin-top: 170px;
+    margin-left: 600px;
+    
+}
+.bukayo{
+    position: absolute;
+    color: white;
+    margin-left: 600px;
+    margin-top: 200px;   
+}
+.martineli{
+    position: absolute;
+    color: white;
+    margin-left: 940px;
+    margin-top: 170px;  
+}
+.white{
+    position: absolute;
+    color: white;
+    margin-left: 940px;
+    margin-top: 200px;  
+}
+
+hr{
+    color: white;
+    position: absolute;
+}
